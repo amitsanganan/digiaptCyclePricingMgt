@@ -1,0 +1,15 @@
+[{
+	"order": 1,
+	"date": "01-02-2020",
+
+	"frame": {
+		"type": "DIAMOND"
+	},
+	"handle": {
+		"type": "TRACK"
+	},
+	"chainAssembly": {
+		"chainSize": 10,
+		"speed": 10
+	}
+}]
