@@ -1,1 +1,101 @@
-{"order":1,"date":"01-02-2020","frame":{"type":"abc","price":0.0},"handle":{"type":"abc","shockLock":true,"price":100.0},"seat":{"type":"abc","price":0.0},"wheel":{"spoke":"TANGENTIALLACING","rim":"ALLOY","tube":"abc","tyre":"abc","price":3000.0},"price":7544.0,"chainAssembly":{"chainSize":10,"speed":7,"price":4444.0}}
+[{
+  "order" : 1,
+  "date":"01-02-2020",
+
+  "frame": {
+    "type":"abc"
+  },
+  "handle": {
+    "type":"abc",
+   "shockLock": true
+  },
+ "seat": {
+    "type":"abc"
+  },
+ "wheel": {
+    "spoke":"TANGENTIALLACING",
+   "rim":"ALLOY",
+"tube":"abc",
+   "tyre":"abc"
+  },
+ "chainAssembly": {
+    "chainSize": 8,
+ "speed" : 10
+  }
+ },
+{
+  "order" : 2,
+  "date":"01-03-2020",
+
+  "frame": {
+    "type":"ORDINARY"
+  },
+  "handle": {
+    "type":"ORDINARY",
+   "shockLock": false
+  },
+ "seat": {
+    "type":"RACING"
+  },
+ "wheel": {
+    "spoke":"TANGENTIALLACING",
+   "rim":"STEEL",
+"tube":"TUBE",
+   "tyre":"TUBULAR"
+  },
+ "chainAssembly": {
+    "chainSize": 10,
+ "speed" : 8
+  }
+ },
+{
+  "order" : 3,
+  "date":"01-04-2020",
+
+  "frame": {
+    "type":"PRONE"
+  },
+  "handle": {
+    "type":"STANDARD",
+   "shockLock": true
+  },
+ "seat": {
+    "type":"COMFORT"
+  },
+ "wheel": {
+    "spoke":"TANGENTIALLACING",
+   "rim":"CHROME",
+"tube":"TUBELESS",
+   "tyre":"CLINCHER"
+  },
+ "chainAssembly": {
+    "chainSize": 10,
+ "speed" : 6
+  }
+ },
+{
+  "order" : 4,
+  "date":"01-05-2020",
+
+  "frame": {
+    "type":"DIAMOND"
+  },
+  "handle": {
+    "type":"TRACK",
+   "shockLock": true
+  },
+ "seat": {
+    "type":"COMFORT"
+  },
+ "wheel": {
+    "spoke":"TANGENTIALLACING",
+   "rim":"ALLOY",
+"tube":"TUBE",
+   "tyre":"CLINCHER"
+  },
+ "chainAssembly": {
+    "chainSize": 8,
+ "speed" : 8
+  }
+ }
+]
